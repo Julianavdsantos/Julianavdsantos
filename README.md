@@ -3,7 +3,7 @@
 
 - 📫 Estudante de Desenvolvimento Web.
 - ⚡ Cursando Sistema da Informação.
-- 💬 HTML CSS -Intermediário|JS React -Básico|TS-Iniciando...
+- 💬 HTML CSS -Intermediário|JS intermediário...
 ##
  <div>
   <a href=": https://github.com/Julianavdsantos">
