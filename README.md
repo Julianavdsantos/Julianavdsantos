@@ -2,7 +2,7 @@
 
 
 - 📫 Estudante de Desenvolvimento Web.
-- ⚡ Cursando Sistema da Informação.
+- ⚡ Analise e desenvolvimento de software.
 - 💬 HTML, CSS,JS.GIT,INICIADO ESTUDOS COM REACT s2
 ##
  <div>
