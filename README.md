@@ -3,7 +3,7 @@
 
 - 📫 Estudante de Desenvolvimento Web.
 - ⚡ Analise e desenvolvimento de software.
-- 💬 HTML, CSS,JS.GIT,INICIADO ESTUDOS COM REACT s2
+- 💬 JS,C#.NET,SQL-BÁSICO s2
 ##
  <div>
   <a href=": https://github.com/Julianavdsantos">
