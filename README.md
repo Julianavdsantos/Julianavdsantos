@@ -1,7 +1,7 @@
 <img align="left" height="100" src="https://camo.githubusercontent.com/793bd2ae55a4978a8986e3c6252ae32b235ef5b096029c69d788ed5680220dbc/68747470733a2f2f692e696d6775722e636f6d2f7830674b5733392e676966" data-canonical-src="https://i.imgur.com/x0gKW39.gif" style="max-width: 100%;">### Olá! Sou Juliana Santos. 👋
 
 
-- 📫 Estudante de Desenvolvimento Web.
+
 - ⚡ Analise e desenvolvimento de software.
 - 💬 JS,C#.NET,SQL-BÁSICO s2
 ##
