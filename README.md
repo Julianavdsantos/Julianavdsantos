@@ -20,7 +20,7 @@
   <img align="center" alt="ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
  
-  <img align="right"  alt="ju-yoda" src="https://media1.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif?cid=ecf05e47bf24nokn7omgsiox1zuakm9n72jhrxmfvmu4p5aw&rid=giphy.gif&ct=g ">
+  
 </div>
   
 ## 
