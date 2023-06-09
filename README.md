@@ -3,7 +3,7 @@
 
 
 - ⚡ Analise e desenvolvimento de software.
-- 💬 JS,C#.NET,SQL
+- 💬 JS,C#.NET
 ##
  <div>
   <a href=": https://github.com/Julianavdsantos">
